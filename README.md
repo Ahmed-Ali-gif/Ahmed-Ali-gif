@@ -57,14 +57,6 @@ Personal portfolio showcasing projects and skills.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 🎯 2026 Goals
 
 - Build 10+ professional projects
@@ -77,10 +69,8 @@ Personal portfolio showcasing projects and skills.
 
 ## 📫 Connect With Me
 
-- GitHub:[https://github.com/Ahmed-Ali-gif]
-- LinkedIn: Add Your LinkedIn Profile
-- Portfolio: Add Your Portfolio Website
-
+- GitHub: https://github.com/Ahmed-Ali-gif
+- 
 ---
 
 ⭐ Thanks for visiting my profile!
